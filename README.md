@@ -1,4 +1,4 @@
-## Spring Data JDBC 练习
+## Spring Data JPA ORM 练习
 
 ### 练习描述
 - 了解ORM的概念及特点
